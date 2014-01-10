@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TipViewController onSettingsButton]:TipViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[SettingsViewController valueExist] == nil">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[SettingsViewController valueExist]:SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = " [defaults objectForKey:@&quot;settings&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
